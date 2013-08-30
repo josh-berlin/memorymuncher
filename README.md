@@ -1,4 +1,4 @@
-memorymuncher
+Memory Muncher
 =============
 
 iOS app that will eat memory and cause backgrounded apps to be terminated by the OS.
